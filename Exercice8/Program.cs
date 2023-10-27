@@ -20,9 +20,9 @@
         {
             var quotient = a / b;
             var reste = a % b;
-            Console.WriteLine($"{a} / {b} = {quotient}, Reste : {reste}");            
+            Console.WriteLine($"{a} / {b} = {quotient}, Reste : {reste}");
         }
-        catch(DivideByZeroException)
+        catch (DivideByZeroException)
         {
             Console.WriteLine("Erreur : division par zéro.");
         }
