@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\Exercice2\\Exercice2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\Exercice2\\Exercice2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\Exercice2\\Exercice2.csproj",
+        "projectName": "Exercice2",
+        "projectPath": "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\Exercice2\\Exercice2.csproj",
         "packagesPath": "C:\\Users\\Thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Thoma\\Documents\\_Mastere_Info\\06_CSharp\\csharp-ipi\\Exercice2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
